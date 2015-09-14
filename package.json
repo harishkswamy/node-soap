@@ -1,11 +1,11 @@
 {
-  "name": "soap",
-  "version": "0.5.0",
+  "name": "node-soap-api",
+  "version": "0.5.1",
   "description": "A minimal node SOAP client",
   "engines": {
     "node": ">=0.8.0"
   },
-  "author": "Vinay Pulim <v@pulim.com>",
+  "author": "Vinay Pulim <v@pulim.com>, Harish Krishnaswamy",
   "dependencies": {
     "lodash": "~2.4.1",
     "request": ">=2.9.0",
@@ -25,7 +25,7 @@
     "test": "mocha test/*-test.js test/security/*.js"
   },
   "keywords": [
-    "soap"
+    "node-soap-api"
   ],
   "licenses": [
     {
